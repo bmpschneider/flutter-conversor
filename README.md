@@ -1,6 +1,6 @@
 # flutterconversormoedas
 
-A new Flutter application.
+Conversor de Moedas (REAL, DOLAR, EURO).
 
 ## Getting Started
 
